@@ -1,0 +1,3 @@
+a Rust-based strategy backtesting engine for futures contracts
+
+Menudo is both contract-agnostic and strategy-agnostic so you have a lot of freedom
